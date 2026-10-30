@@ -6,7 +6,7 @@
   <title>Przekierowanie…</title>
 
   <!-- Przekierowanie natychmiastowe (działa bez JavaScriptu) -->
-  <meta http-equiv="refresh" content="0; url=https://example.com">
+  <meta http-equiv="refresh" content="0; url=https://createcraft.store">
 
   <!-- Wskazuje wyszukiwarkom docelowy adres -->
   <link rel="canonical" href="https://createcraft.store">
